@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About Me
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,20 +12,20 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Introduction</h2>
+<p>I grew up in India's west-central regions, and as technology advanced, it became clearer and clearer to me that I wanted to learn about the evolution of computer science. As a graduate student in Computer Science at Binghamton University in New York State, I intend to broaden my knowledge with major courses such as Cloud Computing, Operating Systems, and Design and Analysis of Algorithms.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Professional Experience</h3>
+		<p>After working in various verticals of the B2B-B2C SaaS industry for almost 2.3 years, I decided to move and start my career with Master's. As a responsible employee I gained proficiency in problem-solving, bug fix, research and development, communication, and end-user training. As a team member, I delivered on-floor training to new joiners, provided solutions to genric problems, and assisted other colleagues as well.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Academic Experience</h3>
+		<p>My  journey as a computer science student began in 2011 when I enrolled in MIT to earn a computer science diploma degree. My interest in  virtualization and systems was first developed while working on the final  project. Then, in 2019, I graduated from Pune University with a bachelor's degree in computer science. My focus on developing virtualized applications was facilitated during  major projects and supported by department.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
