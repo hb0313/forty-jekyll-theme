@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Harshad Bhandwaldar
+subtitle: Graduate Student
 email: hbhandwaldar@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: I grew up in India"'"s west-central regions, and as technology advanced, it became clearer and clearer to me that I wanted to learn about the evolution of computer science. As a graduate student in Computer Science at Binghamton University in New York, I intend to broaden my knowledge with major courses
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://hb0313.github.io/"
 author: Harshad Bhandwaldar
@@ -11,7 +11,7 @@ city: Binghmaton
 state: NY
 zip_code: 13905
 country: United States of America
-phone: #####
+phone: (999) 999-9999
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,9 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://github.com/hb0313
+  LinkedIn: https://www.linkedin.com/in/harshadbhandwaldar/
+  Twitter: https://twitter.com/
 
 # build settings
 markdown: kramdown
