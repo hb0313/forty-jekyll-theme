@@ -58,9 +58,6 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="#" class="button">CODE</a></li>
 				</ul>
-			</div>
 		</div>
 	</section>
-</section>
-
 </div>
