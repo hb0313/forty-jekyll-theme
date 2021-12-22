@@ -5,7 +5,5 @@ landing-title: 'Hi, my name is Harshad'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
-
-A computer program does what you tell it to do, not what you want it to do.
