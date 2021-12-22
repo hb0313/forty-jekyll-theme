@@ -36,8 +36,9 @@ nav-menu: true
 <h2 id="elements">Skills</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
+
 <!-- Lists -->
-<h3>Languages</h3>
+<h4>Languages</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul>
@@ -47,6 +48,8 @@ nav-menu: true
 			<li>Python</li>
 			<li>Php/HTML/JQuery/CSS</li>
 		</ul>
+	</div>
+	
 	<div class="6u$ 12u$(small)">
 
 		<h4>Technology</h4>
@@ -58,7 +61,6 @@ nav-menu: true
 			<li>Raspberry/Debian Arch</li>
 		</ul>
 	</div>
-</div>
 </div>
 </div>
 </div>
