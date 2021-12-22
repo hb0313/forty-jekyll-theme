@@ -29,11 +29,11 @@ nav-menu: true
 		<p>My  journey as a computer science student began in 2011 when I enrolled in MIT to earn a computer science diploma degree. My interest in  virtualization and systems was first developed while working on the final  project. Then, in 2019, I graduated from Pune University with a bachelor's degree in computer science. My focus on developing virtualized applications was facilitated during  major projects and supported by department.</p>
 	</div>
 	<!-- Break -->
-	
+</div>
+		
 <h2 id="content">Current Work</h2>
 <p>Currently, I'm working as Research Project Assistant at The Research Foundation for SUNY (State University of New York Binghamton University).</p>
 	
-</div>
 
 <hr class="major" />
 
