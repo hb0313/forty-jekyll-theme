@@ -35,10 +35,9 @@ nav-menu: true
 <!-- Elements -->
 <h2 id="elements">Skills</h2>
 <div class="row 200%">
-	<div class="6u 12u$(medium)">
 
 <!-- Lists -->
-<h4>Languages</h3>
+<h4>Languages</h4>
 <div class="row">
 	<div class="8u 12u$(small)">
 		<ul>
@@ -49,10 +48,9 @@ nav-menu: true
 			<li>Php/HTML/JQuery/CSS</li>
 		</ul>
 	</div>
-	
+<h4>Technology</h4>
+<div class="row">
 	<div class="8u$ 12u$(small)">
-
-		<h4>Technology</h4>
 		<ul>
 			<li>GCP/Azure</li>
 			<li>Docker/Kubernets</li>
@@ -62,4 +60,3 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-</section>
