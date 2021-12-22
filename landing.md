@@ -56,7 +56,7 @@ nav-menu: true
 				</header>
 				<p>Infra monitoring using Docker, InfluxDB, Flux, telegraf, and Grafana. Deployed on Google Cloud to maintain the availability of the dashboard. Usable to monitor the on-prem infrastructure like Dataware house, server machine, miners, etc. Multiple system support on a single dashboard, time serial database, and telegraf scrapper.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="#" class="button">CODE</a></li>
 				</ul>
 			</div>
 		</div>
