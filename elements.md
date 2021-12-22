@@ -37,8 +37,8 @@ nav-menu: true
 <div class="row 200%">
 
 <!-- Lists -->
-<h4>Languages</h4>
 <div class="row">
+	<h4>Languages</h4>
 	<div class="8u 12u$(small)">
 		<ul>
 			<li>C/C++</li>
@@ -48,8 +48,7 @@ nav-menu: true
 			<li>Php/HTML/JQuery/CSS</li>
 		</ul>
 	</div>
-<h4>Technology</h4>
-<div class="row">
+	<h4>Technology</h4>
 	<div class="8u$ 12u$(small)">
 		<ul>
 			<li>GCP/Azure</li>
@@ -60,3 +59,9 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
