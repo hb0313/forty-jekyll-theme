@@ -64,6 +64,3 @@ nav-menu: true
 </div>
 </div>
 </div>
-</section>
-
-</div>
