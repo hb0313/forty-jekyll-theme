@@ -47,8 +47,6 @@ nav-menu: true
 			<li>Python</li>
 			<li>Php/HTML/JQuery/CSS</li>
 		</ul>
-
-	</div>
 	<div class="6u$ 12u$(small)">
 
 		<h4>Technology</h4>
