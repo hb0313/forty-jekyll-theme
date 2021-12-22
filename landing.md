@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: Projects
+layout: landing
 description: 'Academic and Personal Project Repo'
 image: assets/images/pic07.jpg
 nav-menu: true
