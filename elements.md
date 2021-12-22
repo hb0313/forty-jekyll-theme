@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+description: WEX and skills
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
