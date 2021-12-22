@@ -40,7 +40,7 @@ nav-menu: true
 <!-- Lists -->
 <h4>Languages</h3>
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="8u 12u$(small)">
 		<ul>
 			<li>C/C++</li>
 			<li>Java</li>
@@ -50,7 +50,7 @@ nav-menu: true
 		</ul>
 	</div>
 	
-	<div class="6u$ 12u$(small)">
+	<div class="8u$ 12u$(small)">
 
 		<h4>Technology</h4>
 		<ul>
@@ -61,8 +61,5 @@ nav-menu: true
 			<li>Raspberry/Debian Arch</li>
 		</ul>
 	</div>
-</div>
-</div>
-</div>
 </div>
 </section>
