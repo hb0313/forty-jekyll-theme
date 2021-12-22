@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-description: Publications
+description: Papers and Journals proceedings
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
