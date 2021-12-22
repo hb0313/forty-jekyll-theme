@@ -18,7 +18,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Introduction</h2>
-<p>I grew up in India's west-central regions, and as technology advanced, it became clearer and clearer to me that I wanted to learn about the evolution of computer science. As a graduate student in Computer Science at Binghamton University in New York State, I intend to broaden my knowledge with major courses such as Cloud Computing, Operating Systems, and Design and Analysis of Algorithms.</p>
+<p>I grew up in India's west-central regions, and as technology advanced, it became clearer and clearer to me that I wanted to learn about the evolution of computer science. As a graduate student in Computer Science at Binghamton University in New York State, I intend to broaden my knowledge with major courses such as Cloud Computing, Operating Systems, and Design and Analysis of Algorithms, High Performance Computing, Computer Organization and Architecture.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Professional Experience</h3>
@@ -29,6 +29,10 @@ nav-menu: true
 		<p>My  journey as a computer science student began in 2011 when I enrolled in MIT to earn a computer science diploma degree. My interest in  virtualization and systems was first developed while working on the final  project. Then, in 2019, I graduated from Pune University with a bachelor's degree in computer science. My focus on developing virtualized applications was facilitated during  major projects and supported by department.</p>
 	</div>
 	<!-- Break -->
+	
+<h2 id="content">Current Work</h2>
+<p>Currently, I'm working as Research Project Assistant at The Research Foundation for SUNY (State University of New York Binghamton University).</p>
+	
 </div>
 
 <hr class="major" />
