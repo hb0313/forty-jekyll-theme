@@ -23,7 +23,7 @@ nav-menu: true
 				<p>Online compiler deployed on a low-cost server using Raspberry Pi 3b+. Designed a lightweight framework that can handle multiple user requests using PHP and JQuery. Secure login for authorized users by SQL MD5 password hashing. Developed for schools and institutes for basic usage of computer programming.</p>
 				<p>Login and password for demo - user</p>
 				<ul class="actions">
-					<li><a href="http://35.202.133.79:8080/" class="button">DEMO</a></li>
+					<li><a href="https://picloud.ngrok.io/" class="button">DEMO</a></li>
 					<li><a href="https://github.com/hb0313/Pi-Cloud" class="button">CODE</a></li>
 				</ul>
 			</div>
