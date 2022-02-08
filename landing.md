@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/hb0313/Pi-Cloud" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
