@@ -2,7 +2,7 @@
 layout: page
 title: Meet Anna
 description: AI Assistant
-image: assets/images/pic01.jpg
+image: assets/images/AnnaSynthesia.jpeg
 nav-menu: true
 ---
 
@@ -15,7 +15,12 @@ nav-menu: true
 		<header class="major">
 			<h1>About Me</h1>
 		</header>
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
 		
-<video width="auto" height="auto" controls>
+<video width="100%" controls>
   <source type="video/mp4" src="assets/videos/introduction.mp4">
 </video>
