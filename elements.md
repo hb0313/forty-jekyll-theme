@@ -15,10 +15,6 @@ nav-menu: true
 		<header class="major">
 			<h1>About Me</h1>
 		</header>
-		
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="assets/videos/introduction.mp4">
-</video>
 
 <!-- Content -->
 <h2 id="content">Introduction</h2>
