@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: Meet Anna
 description: AI Assistant
 image: assets/images/AnnaSynthesia.jpeg
