@@ -8,6 +8,8 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main">
+	
+	<p> Some projects with demo below. More can be found on https://github.com/hb0313 </p>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -59,5 +61,5 @@ nav-menu: true
 					<li><a href="#" class="button">CODE</a></li>
 				</ul>
 		</div>
-	</section>
 </div>
+	</section>
