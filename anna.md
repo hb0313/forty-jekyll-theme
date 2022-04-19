@@ -3,7 +3,7 @@ layout: page
 title: Meet Anna
 description: AI Assistant
 image: assets/images/AnnaSynthesia.jpeg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
