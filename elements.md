@@ -49,7 +49,9 @@ nav-menu: true
 			<li>C/C++</li>
 			<li>Java</li>
 			<li>MySQL/PLSQL</li>
-			<li>Python</li>
+			<li>REST API/XML</li>
+			<li>Node JS</li>
+			<li>Python/Flask</li>
 			<li>Php/HTML/JQuery/CSS</li>
 		</ul>
 	</div>
@@ -57,10 +59,14 @@ nav-menu: true
 	<div class="8u$ 12u$(small)">
 		<ul>
 			<li>GCP/Azure</li>
+			<li>Elastic Search</li>
+			<li>Kibana/Redis</li>
 			<li>Docker/Kubernets</li>
-			<li>Arduino</li>
+			<li>Microservice Arch/Orchestration</li>
+			<li>Arduino Uno - R3</li>
 			<li>Virtualization/ESXi</li>
 			<li>Raspberry/Debian Arch</li>
+			<li> Domain Driven Design (DDD) </li>
 		</ul>
 	</div>
 </div>
