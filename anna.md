@@ -8,7 +8,7 @@ nav-menu: false
 
 <!-- Main -->
 <div id="main" class="alt">
-<video width="100%" controls>
+<video width="90%" height="60%" controls>
   <source type="video/mp4" src="assets/videos/introduction.mp4">
 </video>
 </div>
