@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Meet Anna
 description: AI Assistant
 image: assets/images/AnnaSynthesia.jpeg
