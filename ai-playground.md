@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: AI-Playground
 description: Interactive AI portfolio 
 image: assets/images/ai-background.png
