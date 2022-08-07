@@ -6,7 +6,7 @@ image: assets/images/ai-background.png
 nav-menu: false
 ---
 
-<h1> Go to </h1>
+<h2> Go to </h2>
 [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/)
 
 > Above link will redirect you to another Github page developed and maintained by Harshad. AI-Playground is purely for personal use and does not include any advertisment for any brand.
@@ -15,10 +15,10 @@ nav-menu: false
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]() [![Deployment Status](https://img.shields.io/badge/deployment-60%25-blue)]() [![Python Version](https://img.shields.io/badge/python-%3C3.9-green)]() [![Version](https://img.shields.io/badge/version-latest-blue)]() [![Coverage](https://img.shields.io/badge/coverage-70%25-red)]() [![Lifecycle](https://img.shields.io/badge/lifecycle-stable-orange)]()
 
 <p align="center">
-<h1>AI-Playground Contribution</h1>
+<h2>AI-Playground Contribution</h2>
 </p>
 
-<p>
+
 <h3> Code </h3>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <h3> Operating Systems </h3>
