@@ -15,6 +15,9 @@ nav-menu: false
 		<header class="major">
 			<h1>Go to</h1>
 		</header>
+	</div>
+</section>
+</div>
 
 
 [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/)
