@@ -6,14 +6,26 @@ image: assets/images/ai-background.png
 nav-menu: false
 ---
 
-<h2> Go to </h2>
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Go to</h1>
+		</header>
+
 
 [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/)
 
+<p>
 > Above link will redirect you to another Github page developed and maintained by Harshad. AI-Playground is purely for personal use and does not include any advertisment for any brand.
 > Enjoy!!!
-
+</p>
+    
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]() [![Deployment Status](https://img.shields.io/badge/deployment-60%25-blue)]() [![Python Version](https://img.shields.io/badge/python-%3C3.9-green)]() [![Version](https://img.shields.io/badge/version-latest-blue)]() [![Coverage](https://img.shields.io/badge/coverage-70%25-red)]() [![Lifecycle](https://img.shields.io/badge/lifecycle-stable-orange)]()
+
 
 <p align="center">
 <h2>AI-Playground Contribution</h2>
