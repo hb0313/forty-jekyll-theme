@@ -7,6 +7,7 @@ nav-menu: false
 ---
 
 <h2> Go to </h2>
+
 [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/)
 
 > Above link will redirect you to another Github page developed and maintained by Harshad. AI-Playground is purely for personal use and does not include any advertisment for any brand.
