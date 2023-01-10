@@ -6,9 +6,9 @@ image: assets/images/ai-background.png
 nav-menu: false
 ---
 
-<h1>Go to</h1>
+## Go to [Ai-Sandbox](https://sites.google.com/view/pihome1/home)
 
-[![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/)
+<!-- [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/) -->
 
 
 > Above link will redirect you to another Github page developed and maintained by Harshad. AI-Playground is purely for personal use and does not include any advertisment for any brand.
