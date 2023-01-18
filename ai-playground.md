@@ -6,14 +6,17 @@ image: assets/images/aibg.gif
 nav-menu: false
 ---
 
+<html>
+    <head>
+        <link href="_sass/layout/hover.css" rel="stylesheet">
+    </head>
 <!-- ## Go to [Ai-Sandbox](https://sites.google.com/view/pihome1/home) -->
 
 <!-- [<img align="center" width="60%" height="40%" src="assets/images/ai-face-tile-bg.gif">](https://sites.google.com/view/pihome1/home) -->
-
 <p align="center">
     <a href="https://sites.google.com/view/pihome1/home"><img class="hvr-shrink" width="40%" height="30%" src="assets/images/ai-face-tile-bg.gif"></a>
 </p>
-
+</html>
 <!-- [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/) -->
 
 
