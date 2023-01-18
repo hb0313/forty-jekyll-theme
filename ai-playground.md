@@ -8,10 +8,11 @@ nav-menu: false
 
 <!-- ## Go to [Ai-Sandbox](https://sites.google.com/view/pihome1/home) -->
 
-<p align="center">
-[![ai](assets/images/ai-digital.gif)](https://sites.google.com/view/pihome1/home)
+[<img align="center" width="460" height="300" src="assets/images/ai-digital.gif">](https://sites.google.com/view/pihome1/home)
+
 <!--   <img width="460" height="300" src="assets/images/ai-digital.gif"> -->
-</p>
+<!-- <p align="center"> -->
+<!-- </p> -->
 
 <!-- [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/) -->
 
