@@ -2,7 +2,7 @@
 layout: page
 title: AI-Playground
 description: Interactive AI portfolio 
-image: assets/images/ai-background.png
+image: assets/images/ai-bg.gif
 nav-menu: false
 ---
 
