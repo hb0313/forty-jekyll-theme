@@ -10,7 +10,6 @@ nav-menu: false
 
 [<img align="center" width="460" height="300" src="assets/images/ai-digital.gif">](https://sites.google.com/view/pihome1/home)
 
-<!--   <img width="460" height="300" src="assets/images/ai-digital.gif"> -->
 <!-- <p align="center"> -->
 <!-- </p> -->
 
