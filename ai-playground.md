@@ -8,7 +8,7 @@ nav-menu: false
 
 <!-- ## Go to [Ai-Sandbox](https://sites.google.com/view/pihome1/home) -->
 
-[<img align="center" width=100% height="500" src="assets/images/ai-digital.gif">](https://sites.google.com/view/pihome1/home)
+[<img align="center" width="100%" height="500" src="assets/images/ai-digital.gif">](https://sites.google.com/view/pihome1/home)
 
 <!-- <p align="center"> -->
 <!-- </p> -->
