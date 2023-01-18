@@ -10,14 +10,15 @@ nav-menu: false
 
 <!-- [<img align="center" width="60%" height="40%" src="assets/images/ai-face-tile-bg.gif">](https://sites.google.com/view/pihome1/home) -->
 <p align="center">
-    <img class="hvr-shrink" width="40%" height="30%" src="assets/images/ai-face-tile-bg.gif"></br>
+    <img class="hvr-shrink" width="40%" height="30%" src="assets/images/ai-face-tile-bg.gif"><br/>
     <a href="https://sites.google.com/view/pihome1/home" class="hvr-shrink">Go to Playground</a>
 </p>
-
+<br/>
 <!-- [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/) -->
 
 
-> Above link will redirect you to another Github page developed and maintained by Harshad. AI-Playground is purely for personal use and does not include any advertisment for any brand.
+> The above link will take you to another page created and maintained by Harshad. 
+> AI-Playground is solely for personal use and contains no brand advertisements.
 > Enjoy!!!
 
     
