@@ -11,7 +11,7 @@ nav-menu: false
 <!-- [<img align="center" width="60%" height="40%" src="assets/images/ai-face-tile-bg.gif">](https://sites.google.com/view/pihome1/home) -->
 
 <p align="center">
-    <a href="https://sites.google.com/view/pihome1/home"><img width="40%" height="30%" src="assets/images/ai-face-tile-bg.gif"></a>
+    <a class="hvr-shrink" href="https://sites.google.com/view/pihome1/home"><img width="40%" height="30%" src="assets/images/ai-face-tile-bg.gif"></a>
 </p>
 
 <!-- [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/) -->
