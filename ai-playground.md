@@ -17,7 +17,7 @@ nav-menu: false
 <!-- [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/) -->
 
 
-> The above link will take you to another page created and maintained by Harshad. 
+> The above link will take you to another page created and maintained by Harshad.
 > AI-Playground is solely for personal use and contains no brand advertisements.
 > Enjoy!!!
 
