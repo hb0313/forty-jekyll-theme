@@ -6,16 +6,10 @@ image: assets/images/aibg.gif
 nav-menu: false
 ---
 
-<!-- ## Go to [Ai-Sandbox](https://sites.google.com/view/pihome1/home) -->
-
-<!-- [<img align="center" width="60%" height="40%" src="assets/images/ai-face-tile-bg.gif">](https://sites.google.com/view/pihome1/home) -->
 <p align="center">
-    <img class="hvr-shrink" width="40%" height="30%" src="assets/images/ai-face-tile-bg.gif"><br/>
-    <a href="https://sites.google.com/view/pihome1/home" class="hvr-shrink">Go to Playground</a>
+    <img width="40%" height="30%" src="assets/images/ai-face-tile-bg.gif"><br/>
+    <a href="https://sites.google.com/view/pihome1/home">Go to Playground</a>
 </p>
-<br/>
-<!-- [![Playground](https://img.shields.io/badge/PLAYGROUND-here-brightgreen?style=for-the-badge&logo=appveyor)](https://hb0313.github.io/ai-playground/) -->
-
 
 > The above link will take you to another page created and maintained by Harshad.
 > AI-Playground is solely for personal use and contains no brand advertisements.
