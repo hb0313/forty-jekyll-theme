@@ -43,13 +43,3 @@ nav-menu: false
 <h3> Build </h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Object detection YoLo
-
-<iframe
-	src="https://hashb-object-detection-yolo.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
