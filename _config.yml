@@ -1,7 +1,7 @@
 # site settings
 title: Harshad Bhandwaldar
 subtitle: Graduate Student
-email: https://github.com/hb0313/home/raw/master/assets/docs/HarshadBhandwaldar_Resume_personal.pdf
+email: hbhandwaldar@gmail.com
 description: "I grew up in India's west-central regions, and as technology advanced, it became clearer and clearer to me that I wanted to learn about the evolution of computer science. As a graduate student in Computer Science at Binghamton University in New York, I intend to broaden my knowledge with major courses."
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://hb0313.github.io/"
