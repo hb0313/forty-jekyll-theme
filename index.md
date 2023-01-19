@@ -7,5 +7,3 @@ image: null
 author: null
 show_tile: false
 ---
-
-<meta name="google-site-verification" content="AZ7JOwZxyLLv4LBEFPlJFlvxiqzQRoHDNKWbZQq-nLs" />
