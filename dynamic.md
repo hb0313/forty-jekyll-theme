@@ -603,7 +603,7 @@ show_tile: false
 
 
 ## We love our contributors ❤️❤️
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
+
 <a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
 </a>
