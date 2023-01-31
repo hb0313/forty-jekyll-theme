@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: page
 title: Internships2023
 landing-title: 'Internships 2023'
 nav-menu: true
