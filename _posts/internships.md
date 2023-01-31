@@ -605,11 +605,10 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*
 
-```
+
 {
 
 
 [1] [Pitt Computer Science Club](https://github.com/pittcsc/Summer2023-Internships)
 
 }
-```
