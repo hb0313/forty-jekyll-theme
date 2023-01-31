@@ -1,9 +1,12 @@
 ---
-layout: page
-title: Internships
-description: Available internships
-image: assets/images/pic01.jpg
+layout: allposts
+title: Internships2023
+landing-title: 'Internships 2023'
 nav-menu: true
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
 
