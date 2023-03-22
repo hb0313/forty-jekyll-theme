@@ -11,5 +11,5 @@ show_tile: false
 
 
 <p align="center">
-    <video width="40%" height="30%" src="assets/video/Newletter2021.mp4"><br/>
+    <video width="40%" height="30%" src="assets/videos/Newletter2021.mp4"><br/>
 </p>
