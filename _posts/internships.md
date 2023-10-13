@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title: Internships2023
 description: Internships 2023
 image: null
