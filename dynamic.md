@@ -2,7 +2,7 @@
 layout: page
 title: Internships2023
 landing-title: 'Internships 2023'
-nav-menu: true
+nav-menu: false
 description: null
 image: null
 author: null
