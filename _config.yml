@@ -1,14 +1,14 @@
 # site settings
 title: Harshad Bhandwaldar
-subtitle: Graduate Student
+subtitle:
 email: hbhandwaldar@gmail.com
-description: "I grew up in India's west-central regions, and as technology advanced, it became clearer and clearer to me that I wanted to learn about the evolution of computer science. As a graduate student in Computer Science at Binghamton University in New York, I intend to broaden my knowledge with major courses."
+description: "Growing up in the west-central regions of India, I developed a keen interest in the evolution of computer science, especially with the advancements in technology. This passion led me to pursue a graduate degree in Computer Science at Binghamton University in New York State. Throughout my academic journey, I focused on expanding my expertise through key courses such as Cloud Computing, Operating Systems, Design and Analysis of Algorithms, High-Performance Computing, and Computer Organization and Architecture."
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://hb0313.github.io/"
 author: Harshad Bhandwaldar
-street_address: Seminary Ave
-city: Binghmaton
-state: NY
+street_address: Atlanta
+city: Atlanta
+state: GA
 zip_code: 13905
 country: United States of America
 phone: (999) 999-9999
