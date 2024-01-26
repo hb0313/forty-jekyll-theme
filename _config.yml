@@ -6,7 +6,7 @@ description: "Growing up in the west-central regions of India, I developed a kee
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://hb0313.github.io/"
 author: Harshad Bhandwaldar
-street_address: Atlanta
+street_address:
 city: Atlanta
 state: GA
 zip_code:
