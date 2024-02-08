@@ -15,7 +15,6 @@ nav-menu: true
 		<header class="major">
 			<h1>About Me</h1>
 		</header>
-
 <!-- Content -->
 <h2 id="content">Introduction</h2>
 <p>
